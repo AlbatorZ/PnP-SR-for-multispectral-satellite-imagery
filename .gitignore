@@ -1,0 +1,12 @@
+# Model weights and datasets
+weights/
+datasets/
+measurements/
+*.pth
+*.pt
+*.h5
+
+# Python and Jupyter caches
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
