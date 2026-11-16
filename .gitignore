@@ -67,3 +67,11 @@ coverage.xml
 
 # OS
 .DS_Store
+
+# Model weights and generated datasets
+weights/
+datasets/
+measurements/
+*.pth
+*.pt
+*.h5
